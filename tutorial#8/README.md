@@ -1,3 +1,5 @@
-# webpack-simple
+# vuex_tutorial
 
-> Vuex tutorial #1 - create simple Vue App not vuex but just props
+> Vuex tutorial #8 - mapActions
+1. import mapActions
+2. use mapActions at methods
