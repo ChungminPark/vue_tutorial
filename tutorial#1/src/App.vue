@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    Parent counter: {{count}} <br>
+    Parent counter: {{ counter }} <br>
     <button @click="addCounter">+</button>
-    <button @click="subCounter">+</button>
+    <button @click="subCounter">-</button>
 
     <child v-bind:passedCounter="counter"></child>
   </div>
