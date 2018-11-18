@@ -1,4 +1,4 @@
-# webpack-simple
+# vuex_tutorial
 
 > Vuex tutorial #5 - mutation
 1. add mutations to store.js for relative accessing to counter data of state

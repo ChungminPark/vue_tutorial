@@ -1,4 +1,4 @@
-# webpack-simple
+# vuex_tutorial
 
 > Vuex tutorial #3 - getter
 1. add getCounter to getters of store.js

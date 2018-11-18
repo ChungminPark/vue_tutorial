@@ -1,4 +1,4 @@
-# webpack-simple
+# vuex_tutorial
 
 > Vuex tutorial #2 - vuex
 ``` bash

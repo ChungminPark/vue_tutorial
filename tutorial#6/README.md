@@ -1,4 +1,4 @@
-# webpack-simple
+# vuex_tutorial
 
 > Vuex tutorial #6 - mapMutations
 1. import mapMutations
