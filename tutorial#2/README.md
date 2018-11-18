@@ -1,6 +1,6 @@
 # webpack-simple
 
-> Vuex tutorial #2
+> Vuex tutorial #2 - vuex
 ``` bash
 # install vuex(with save option to save it to package.json)
 npm install vuex --save
