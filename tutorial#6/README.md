@@ -1,3 +1,5 @@
 # webpack-simple
 
-> Vuex tutorial #1 - create simple Vue App not vuex but just props
+> Vuex tutorial #6 - mapMutations
+1. import mapMutations
+2. add addCounter, subCounter to mapMutations at methods
