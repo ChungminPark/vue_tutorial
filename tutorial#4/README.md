@@ -1,3 +1,5 @@
 # webpack-simple
 
-> Vuex tutorial #1 - create simple Vue App not vuex but just props
+> Vuex tutorial #4 - mapGetters
+1. import mapGetters
+2. add mapGetters to computed
